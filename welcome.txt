@@ -1,3 +1,9 @@
 hello welcome;
 
-wellcome client;
+
+change wellcome;
+
+in the second branch;
+test new feature;
+
+добавляем новые строки в ветку;
