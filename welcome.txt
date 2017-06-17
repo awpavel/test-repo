@@ -1,9 +1,9 @@
-hello welcome
+hello welcome;
 
 
-change wellcome
+change wellcome;
 
-in the second branch
-test new feature
+in the second branch;
+test new feature;
 
-добавляем новые строки в ветку
+добавляем новые строки в ветку;
