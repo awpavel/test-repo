@@ -1,1 +1,3 @@
 create new class
+
+new line in class
