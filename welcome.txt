@@ -7,3 +7,5 @@ in the second branch;
 test new feature;
 
 добавляем новые строки в ветку;
+
+add data to wellcome info
